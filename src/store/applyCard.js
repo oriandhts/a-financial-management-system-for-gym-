@@ -1,0 +1,2 @@
+import {defineStrore} from 'pinia'
+
